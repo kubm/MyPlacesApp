@@ -2,7 +2,8 @@ package com.example.kubacm.myplacesapp;
 
 import android.util.Log;
 
-import com.google.android.gms.awareness.snapshot.PlacesResult;
+
+import com.example.kubacm.myplacesapp.gson.PlacesResult;
 import com.google.gson.FieldNamingPolicy;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
@@ -19,7 +20,7 @@ import okhttp3.Response;
  */
 
 public class PlaceFinderImpl implements MapOps.PlaceFinder {
-    private static final String GOOGLE_PLACES_API = "https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=%f,%f&radius=5000&keyword=%s&language=pl&key=AIzaSyAH8EFBEKCHbKd10AVG8RlJd-ESRLJZ3ho";
+    private static final String GOOGLE_PLACES_API = "https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=%f,%f&radius=5000&keyword=%s&language=pl&key=AIzaSyAMJtlrmVCBr1nWaeCw_qmUkywmexjzPm0";
 
     private static final String LOCATION_PATTERN = "%f,%f";
 

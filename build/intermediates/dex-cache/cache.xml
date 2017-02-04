@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.0_2a45df6bf465103d6235bf29c836889ee491b402\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1e11c68fec92a17c84dd8d1dd80e74c4e67b12e2">
+        <dex dex="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-10.0.1_35a5a7bc5a1ecd90da010af29e0be2c1cfa387c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-10.0.1_1ae4368382e9754e0d8d497b0584ec005791b93f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-10.0.1_7da8ab38e66f66ddf47bb8fd3f786e7bf1bb2a44\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-10.0.1_456f3ab7c7de6ae42b01ea4ef4267989ea569a06\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.0_0d4e189c130312519bfadae2b37a5d68501763ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kubacm\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.0_24ba22866fbcb122e3d5e6fa3598306cbe8a5471\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-appindexing\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
+        <dex dex="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-appindexing-10.0.1_5e916aee5e08a250686bc973fbf070f00d0d41d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-10.0.1_7462ac218013e54171b56278054b0562a1128671\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-10.0.1_55fb3acf16957eb67045ab3eaebd0429a680771e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
+        <dex dex="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-10.0.1_4b4d1bb2595f73be2341471f746a3df515a63fbf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45305e6af414dab5aba6c3225081c2f15c3bdd1e">
+        <dex dex="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-instantapps-10.0.1_77a807039d5142066add2de83d67df01032e560f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.0_8bf7d265eeda1de255331320e807e83a9669a514\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-10.0.1_2a98207bcde86a85a5a04acb0d66d043148be48e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-10.0.1_77bfbe2be102aa4a2dddaa1874fbf7561189363b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-10.0.1_c7be1199a71863ca20f8fbf42331f6b88514c4f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-10.0.1_fb6b640b2307e56b85c0d897b0caa5f896c4b0eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.4.0_4a79021c86bd19133889a4ec9720369fcd8bc4f1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
+        <dex dex="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-10.0.1_f9df8f0fd58f96d825f1118c4018e9d3b1dd8a16\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-10.0.1_87a418895b4b6cfaa7d057a6ec21533cb05ffc40\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="028f8255cb977b29cdffbfcf05caa0459686120c">
+        <dex dex="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-10.0.1_a421307fa445ac7e81fb9aefdd8348eda0c751a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.0_27d72ac8e76f62a764b8291601d75cb655524e1f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
+        <dex dex="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-10.0.1_ee15db328051fba93ff0242447531f4feb4cfdf8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.0.0_e0d7047ef7e28ff6ad8d031ec98d6cef1d0c3587\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-v4-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
+        <dex dex="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-v4-impl-10.0.1_196c4d75ba7ce94d6666de1b7e2118b072646d4e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.0_f56483094c67886d56fbc53cac60f47be99ff1dc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a48dc0b148059764d32500be558702d5ff932058">
+        <dex dex="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-10.0.1_9aaea49498ad1c007a3a05706753d3dbe6f4dd1c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-10.0.1_34410f29245c846fa9693e9699528984b9301835\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="db45ecb1477ca2b886f6466b822db76ce33d6778">
+        <dex dex="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_7d8309166dc6eab833cc6d59c2bee58ebe7ad1f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kubacm\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.0\c4ba5371a29ac9b2ad6129b1d39ea38750043eff\gson-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.8.0_c90db1ef09ae22a7ef131f51091f4e721a7974f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.0.1_5b75caad98e88933245781bfbb85f0b051fc2faa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.0_b1aa4087f6c9f52c2475bf153d22a0ec287ade8e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.0_e2e0c026a00e821d7699940f607b1824702dd1c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_3f25dcb69f36c5aac0c7cde26adc1376904fe057\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="df1cb17511aabbb63264a0024949d1e42502a512">
+        <dex dex="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-10.0.1_232ad6cac71d88f8ff1139f198f7f2d0200c01f4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="971509bbe30bb7b971fc1c49d7b23d0d818830ac">
+        <dex dex="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-10.0.1_aa5829259d60e7f85bec6a591134beb5c5faff43\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3a2bd44763a537cab92993f2e8b492ca61a9c01c">
+        <dex dex="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_b1a6a876048f41514308a5cb62a8af7f9cc96c1f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.0_3aa934ccaa88913dfac5a004b60c63e5418970a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-10.0.1_008f011fe511f46618469281d3bf62067d67a793\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4385ccc0a88b33d182a836eadb47be55c8eb1107">
+        <dex dex="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-awareness-10.0.1_6bac3d87ce56c8df0cd2eb1873a10d7c0706da00\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
+        <dex dex="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-10.0.1_243709cd2eafa94aba2678e0cc37ee9a7d51e14d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.0_3f4487a77e2708ce9b7b7eaa6cb66441ededd7bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
+        <dex dex="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-10.0.1_c0cc783c314d1701bf13206e949d9161eff33f01\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-10.0.1_bb4e814fcae1dbe3042cc1237d99ab74151f6499\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-24.0.0_e217ef1601280c8e9ef4d872845aa8c45cc4193d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-10.0.1_0fde68ed5e5fe906494bd268b48ae2557e344f42\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="39907d5c8f5902fffef30160ca7447c93b82405c">
+        <dex dex="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-10.0.1_2e1b22e2d4892a2386e0d6cc544ae55098bf9c82\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-10.0.1_a2ad839cc2596fc0f7cda285e7b3eb43739f2062\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-10.0.1_15b5ee7bb6da77e191b30ed4b828579f6446a6be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-10.0.1_49b75f9fcb20a181d9ee2dee4130c03068feedcc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.0.1_b854d1f8e7d4660ef14e9f9221a6519f8cb7864d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
+        <dex dex="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-10.0.1_eff409ec42f415eeabf068acf040a8b085cc4b1c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-10.0.1_3bdf9ae772c38766f37098db9fb6a7b4ece6dad6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7a64bf6dc775198eed9db9468a133adf7dfe6562">
+        <dex dex="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-10.0.1_a579d7d1f759c475b110b11dc9ed5a5eb50aef50\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-10.0.1_1e2726cb482761ba65c2f0fd7d25d6c4f8d0bc56\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
+        <dex dex="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-10.0.1_179ae0de0492ca7c0b042e6a43ba14ee922dccbc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
+        <dex dex="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-10.0.1_00cddb47945cce6994f392e1911781d3c6aab18a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-10.0.1_5605555ea1c0e2ae1ffb79f419ae2954784f55a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-10.0.1_57cdf96ea1043f5d813d76c3d2d98c34bb42c9a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="771267c5b0c7a5b348d3205dcfa1f871af7e0177">
+        <dex dex="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-10.0.1_61fac54be8026d54a5172a07009db195859d6ad1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-10.0.1_9b15b628dc5fcbfa6b5ff820792f9424c751e0e4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c6e1f361e9d61aece9dac39b77fcc98a337a144d">
+        <dex dex="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-10.0.1_2d7f5e8f8bd0d785d95f641bbcac632ac0e1191b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_187e6ea956c8c2893aecd89fb1d61c0872093b77\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-10.0.1_d11f5e5497fb6c8184eeb161b7cf3f9178592e8c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kubacm\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.2\ccde00f7ccc77af5a6d5752e2cb21f6d8998289f\okhttp-3.4.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ccde00f7ccc77af5a6d5752e2cb21f6d8998289f">
+        <dex dex="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.4.2_adaad2133cab234ef5e7fe1cebde78d57b9c2ee6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\exploded-aar\com.github.mancj\MaterialSearchBar\0.3.5\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b0ca14310ba6662adb47336acf0e4db7b203707">
+        <dex dex="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.mancj-MaterialSearchBar-0.3.5_67dd8e91fb2e3caabde634afdfd354f8a6cd4f36\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kubacm\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.9.0_907deef9707c11e87c81184fcecf0dcb602211ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="92c871a22463a247e8a77a9f3fd231c278788c4a">
+        <dex dex="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-10.0.1_ad8145dd1a3f207364578776d5926984b4eb7533\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b1df8fa3d372a27e4e969ce00b00689ee1eed031">
+        <dex dex="C:\Users\kubacm\AndroidStudioProjects\MyPlacesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-10.0.1_fcaa34c23eed15fddaa21bd71f4775357c84c78c\classes.dex" />
+    </item>
+
+</items>

@@ -110,9 +110,16 @@ public class MainPresenterImpl implements MainPresenter, MainModelImpl.ModelMapR
                 if(result.isOkay()){
                     placesResult = result;
                     getView().hideSearchBar();
+                    getView().showPlaceList(result);
+                    getView().showListView();
+                }
+                else
+                {
+                    getView().showMap();
+                    getView().showMsg("Error: "+result.getStatus());
                 }
             }
-        })
+        });
     }
 }
 
